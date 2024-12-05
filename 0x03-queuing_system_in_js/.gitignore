@@ -1,0 +1,35 @@
+# directories
+node_modules/
+dist/
+coverage/
+
+# environment files
+.env
+.env.*
+
+# logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# editor  files
+.vscode/
+.idea/
+
+# build files
+build/
+
+# dependency lock files
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# testing frameworks
+jest.config.js
+
+# miscellaneous
+*.swp
+*.swo
